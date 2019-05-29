@@ -1,6 +1,6 @@
 
-Feature('url is displayed');
+Feature('Google Page Test');
 
-Scenario('test something', (I) => {
+Scenario('Google URL base page open correctly', (I) => {
 I.amOnPage('https://www.google.com');
 });
